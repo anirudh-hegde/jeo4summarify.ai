@@ -36,7 +36,7 @@ git clone https://github.com/anirudh-hegde/Jeo4Summarify.git
 
 * Move inside the repository
 ```sh
-cd Jeo4Summarify && cd project-files
+cd Jeo4Summarify && pip install -r requirements.txt && cd project-files
 ```
 
 * Run the app using streamlit
