@@ -25,8 +25,8 @@ https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
 * GenAI
 
 ### Prerequisites
-* Install Python 3.8+
-* Install Pycharm IDE
+* Install Python 3.9+
+* Install PycharmCE IDE
 
 ### Build Instructions
 * Clone the repository
@@ -43,7 +43,6 @@ cd Jeo4Summarify && pip install -r requirements.txt && cd project-files
 ```sh
 streamlit run jeoo.py
 ```
-
 
 ## Conclusion
 Congratulations! You have successfully run the application 🚀️.
