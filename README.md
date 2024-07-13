@@ -1,12 +1,21 @@
 # Jeo4Summarify
 
-## Intro
+### Intro
 Jeo4Y is an innovative project designed to revolutionize the way users consume
 YouTube content. This advanced tool leverages cutting-edge AI technologies to 
 summarize lengthy Youtube videos and translate the summarized text into multiple
 languages, making information more accessible and time-efficient for a global audience.
 
-## Demo
+* #### Efficient Summarization:
+  Quickly understand the key points of any YouTube video without watching the entire content.
+* #### Accurate Translation:
+  Get the summarized text translated into multiple languages, making content accessible to a global audience.
+* #### User-Friendly Interface:
+  Enjoy a seamless and intuitive user experience, designed to cater to all your summarizing and translating needs.
+* #### Real-Time Processing:
+  Benefit from fast and real-time video summarization and translation, perfect for busy schedules.
+  
+### Demo
 
 
 ### Tech stacks
