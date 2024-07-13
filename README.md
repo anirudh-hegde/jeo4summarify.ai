@@ -17,6 +17,7 @@ languages, making information more accessible and time-efficient for a global au
   
 ### Demo
 
+https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
 
 ### Tech stacks
 * python3
