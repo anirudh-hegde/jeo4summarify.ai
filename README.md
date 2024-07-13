@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
 
 ### Prerequisites
 * Install Python 3.8+
-* Install IDE
+* Install Pycharm IDE
 
 ### Build Instructions
 * Clone the repository
