@@ -27,7 +27,8 @@ https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
 ### Prerequisites
 * Install Python 3.9+
 * Install PycharmCE IDE
-
+* Create GenAI API
+  
 ### Build Instructions
 * Clone the repository
 ```sh
