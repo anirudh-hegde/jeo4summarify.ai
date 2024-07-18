@@ -22,12 +22,12 @@ https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
 ### Tech stacks
 * python3
 * streamlit
-* GenAI
+* GenAI 
 
 ### Prerequisites
 * Install Python 3.9+
 * Install PycharmCE IDE
-* Create GenAI API
+* [Create GenAI API](https://aistudio.google.com/app/apikey?_gl=1*1nvm073*_ga*NzQwODI5Nzc5LjE3MTk4NTQxNTg.*_ga_P1DBVKWT6V*MTcyMTI3NDc0MC4zLjEuMTcyMTI3NDgwMy42MC4wLjgwMTI0NzA2)
   
 ### Build Instructions
 * Clone the repository
