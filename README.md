@@ -32,12 +32,12 @@ https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
 ### Build Instructions
 * Clone the repository
 ```sh
-git clone https://github.com/anirudh-hegde/Jeo4Summarify.git
+git clone https://github.com/anirudh-hegde/jeo4summarify.ai.git
 ```
 
 * Move inside the repository
 ```sh
-cd Jeo4Summarify && pip install -r requirements.txt && cd project-files
+cd jeo4summarify.ai && pip install -r requirements.txt && cd project-files
 ```
 
 * Run the app using streamlit
