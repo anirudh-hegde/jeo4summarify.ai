@@ -49,4 +49,4 @@ streamlit run jeoo.py
 Congratulations! You have successfully run the application 🚀️.
 
 ## To use the app: 
-https://jeoopy-yhvy65ec6ryqty8iopvl8m.streamlit.app/
+https://jeo4summarifyai-9setvfgfyephuvzuyh9h4w.streamlit.app/
