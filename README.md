@@ -47,3 +47,5 @@ streamlit run jeoo.py
 
 ## Conclusion
 Congratulations! You have successfully run the application 🚀️.
+
+## To use the app : https://jeoopy-yhvy65ec6ryqty8iopvl8m.streamlit.app/
