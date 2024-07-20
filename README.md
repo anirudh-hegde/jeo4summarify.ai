@@ -1,4 +1,4 @@
-# Jeo4Summarify
+# Jeo4Summarify.ai
 
 ### Intro
 Jeo4Y is an innovative project designed to revolutionize the way users consume
