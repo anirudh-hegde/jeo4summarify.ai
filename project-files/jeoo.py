@@ -5,6 +5,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from deep_translator import GoogleTranslator
 import time
 
+# import the api-key from config.py
 genai.configure(api_key=config.api_key)
 prompt = """You are Youtube video summarizer. Your task is to take the transcript
         text from a youtube video and create a concise summary, highlighting the key points
@@ -14,6 +15,7 @@ st.set_page_config(
     page_title="Jeo4Y",
     page_icon="robot:",
 )
+
 
 def transcript_details(youtube_video_url):
     try:
@@ -26,9 +28,7 @@ def transcript_details(youtube_video_url):
             fetched_transcript = transcript.fetch()
             for item in fetched_transcript:
                 result += ' ' + item['text']
-
         return result
-
     except Exception as e:
         raise e
 
@@ -36,12 +36,11 @@ def transcript_details(youtube_video_url):
 def gen_gemini_content(transcript_text, prompt):
     model = genai.GenerativeModel("gemini-pro")
     response = model.generate_content(prompt + transcript_text)
+
     return response.text
 
 
 def main():
-
-
     st.sidebar.title('Navigation')
 
     pages = st.sidebar.radio("Go to", ['About', 'Video Summarizer', 'Text Translator'])
@@ -87,7 +86,7 @@ def main():
 
         if st.button("Get Summary"):
             with st.spinner('summarizing the video...'):
-                time.sleep(15)
+                time.sleep(22)
             transcript_text = transcript_details(youtube_link)
 
             if transcript_text:
@@ -141,7 +140,6 @@ def main():
                     st.error(f"An error occurred: {e}")
         else:
             pass
-
 
 if __name__ == "__main__":
     main()
