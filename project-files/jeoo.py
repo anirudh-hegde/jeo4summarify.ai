@@ -1,4 +1,3 @@
-# import config
 import google.generativeai as genai
 import streamlit as st
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -49,7 +48,7 @@ def main():
         st.markdown(
             """
             <div style="text-align:center;">
-            <h1>Jeo4Y 🔱</h1>
+            <h1>Jeo4Summarify.ai :mechanical_arm:</h1>
             <h3 style="margin-top: 20px; margin-bottom: 20px";>Revolutionizing the way you consume content by summarizing 
                 and translating videos for maximum efficiency and accessibility.
             </h3>
