@@ -11,8 +11,8 @@ prompt = """You are Youtube video summarizer. Your task is to take the transcrip
         in no more than 250 words. Please provide the summary for following text here:  """
 
 st.set_page_config(
-    page_title="Jeo4Y",
-    page_icon="robot:",
+    page_title="Jeo4Summarizer.ai",
+    page_icon="🦾",
 )
 
 
@@ -48,7 +48,7 @@ def main():
         st.markdown(
             """
             <div style="text-align:center;">
-            <h1>Jeo4Summarify.ai :mechanical_arm:</h1>
+            <h1>Jeo4Summarify.ai 🦾</h1>
             <h3 style="margin-top: 20px; margin-bottom: 20px";>Revolutionizing the way you consume content by summarizing 
                 and translating videos for maximum efficiency and accessibility.
             </h3>
