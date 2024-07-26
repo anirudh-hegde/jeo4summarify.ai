@@ -1,4 +1,4 @@
-import config
+# import config
 import google.generativeai as genai
 import streamlit as st
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 import time
 
 # import the api-key from config.py
-genai.configure(api_key=config.api_key)
+genai.configure(api_key=st.secrets["API_KEY"])
 prompt = """You are Youtube video summarizer. Your task is to take the transcript
         text from a youtube video and create a concise summary, highlighting the key points
         in no more than 250 words. Please provide the summary for following text here:  """
