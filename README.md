@@ -16,8 +16,7 @@ languages, making information more accessible and time-efficient for a global au
   Benefit from fast and real-time video summarization and translation, perfect for busy schedules.
   
 ### Demo
-
-https://github.com/user-attachments/assets/7a6325c7-df6b-4868-93a7-9ad9da7d5c9b
+https://github.com/user-attachments/assets/af523570-4342-4c52-8d41-2e0fec82c812
 
 ### Tech stacks
 * python3
